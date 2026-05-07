@@ -1,0 +1,23 @@
+{
+  "name": "WiFiSetup",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": "",
+  "repository":
+  {
+    "type": "git",
+    "url": ""
+  },
+  "authors":
+  [
+    {
+      "name": "",
+      "email": "",
+      "url": ""
+    }
+  ],
+  "dependencies": {
+  },
+  "frameworks": "*",
+  "platforms": "*"
+}
