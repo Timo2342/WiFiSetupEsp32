@@ -1,12 +1,12 @@
 {
-  "name": "WiFiSetup",
+  "name": "WiFiSetupEsp32",
   "version": "1.0.0",
   "description": "Simple Libary to help setup WiFi",
   "keywords": "WiFi",
   "repository":
   {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/Timo2342/WiFi-Setup_Lib"
   },
   "authors":
   [
